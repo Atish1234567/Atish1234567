@@ -1,0 +1,26 @@
+<html>
+<p> This la paragraph. </p>
+    <span> This is span. </span>
+    <span> The 'br' tag is used after span to break the line </span>
+    <br/>
+    <div style="color:blue;">
+        The 'div' tag can be used for formatting the tags inside it at once using 'style' and 'classes' etc.
+        <p> This paragraph is inside the 'div' tag </p>
+        <span> This span is inside the 'div' tag </span>
+        <br/>
+    </div>
+    <center>
+        <h3> Heading 3 is centered </h3>
+        <p><span> Centered span inside the paragraph. </span></p>
+    </center>
+    Two horizontal line is drawn using two 'hr' tag.
+    <hr/>
+    <hr>
+    <pre> 'pre' tag preserve the formatting (good for writing codes)
+    #Python code
+    x = 2
+    y = 3
+    print (x+y)
+    </pre>
+
+</html>
